@@ -33,3 +33,6 @@ In main file you have this functions to operate:
         Dane.txt:
         1000	0.095
         1000	0.079
+        
+        
+Some times for smaller graphs may varry with results from paper, because in this version List that is used by Step_by_step slows down a little bit process of solving graphs. If you want peak preformance (difference in ms) just delete those lines in Bajtazar.java
