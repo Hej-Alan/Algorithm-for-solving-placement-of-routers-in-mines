@@ -6,7 +6,7 @@ Name of variables and comments are made in polish.
 
 You have to download Graphstream, you can do it throught Maven.
 
-In main file you have this functions to operate:
+In main file you have this functions to operate (line 189-206):
 
         - Zapis_do_pliku_losowej_tablicy(n);
         Saves randomly genereted graph with "n" rooms into tmp file.
